@@ -1,2 +1,2 @@
 # MMHO-algorithm
-A MHHO algorithm for path planning
+An MHHO algorithm for path planning
